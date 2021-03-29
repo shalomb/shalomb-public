@@ -1,12 +1,13 @@
-### Hi there 👋
+### Shalom 👋
 
-- 🔭 I’m currently working on [Pan-Net's](https://www.linkedin.com/company/dt-pan-net/) Cloud PaaS platform, [inji](https://github.com/shalomb/inji), [terrestrial](https://github.com/shalomb/terrestrial)
-- 🌱 I’m currently learning Kubernetes cluster administration, Golang, SRE skills, [Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)
-- 👯 I’m looking to collaborate on something nebulous (☁️ "cloudy" heh) and conjuring up value
+- 🔭 I’m currently working on Fatherhood/Parenting Skills, [inji](https://github.com/shalomb/inji), [terrestrial](https://github.com/shalomb/terrestrial)
+- 🌱 At [`$dayjob`](https://www.linkedin.com/company/dt-pan-net/) I do Cloud Infrastructure Engineering, PaaS design/DevOps, Agile Technology Ownership
+- 🌱 I dabble in [Distributed Systems](https://www.confluent.io/learn/distributed-systems/), Kubernetes/Cloud Native Tech, Python, Golang, SRE/DevOps/Agile hacks, [Design Thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular), Raspberry Pi tinkering
+- 👯 I’d like to collaborate on something nebulous (☁️ "cloudy" heh) and sailing to distant shores (in keeping with the ☸ nautical theme 🤓)
 - 🤔 I’m looking for help tackling [this Strava <img src="img/strava.png" height="16" width="16" /> segment](https://www.strava.com/segments/21756358) 🚴
 - 💬 Ask me about 🇬🇧 expat brexit remainers 🇪🇺 living in Slovakia 🇸🇰
 - 😄 Pronouns: _Shalom!_ (Also the salutation I use in return ...) 😉
-- ⚡ Fun fact: Almost everyone asks me how I spell/say my name. ¯\\_(ツ)_/¯
+- ⚡ Fun fact: Despite a very Jewish name, I'm honestly not Jewish and almost everyone asks me how I spell/say my name. ¯\\_(ツ)_/¯
 - 📫 How to reach me: [shalomb.github.io/#contact](http://shalomb.github.io/#contact)
 
 <h3 align="left">What I do</h3>
